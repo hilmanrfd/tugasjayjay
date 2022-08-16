@@ -17,3 +17,12 @@ karena saya ingin mengimprove skill saya dari QA Tester Manual menjadi QA Engine
 
 
 ====end of update 2====
+
+
+=====update 3=======
+
+
+test update di newBranch aja ini
+
+
+thanks
