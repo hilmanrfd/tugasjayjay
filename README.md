@@ -1,7 +1,7 @@
 # tugasjayjay
 Tugas QA Engineer Jayjay
-Halo perkenalkan nama saya Muhammad Hilman Rafialdy, 
-kegiatan saya sekarang adalah bekerja sebagai QA Tester manual di sebuah fintech startup
+Halo perkenalkan nama saya undefined , 
+kegiatan saya sekarang adalah undefined
 
 
 
@@ -12,7 +12,7 @@ kegiatan saya sekarang adalah bekerja sebagai QA Tester manual di sebuah fintech
 kenapa saya tertarik mengambil course ini?
 
 
-karena saya ingin mengimprove skill saya dari QA Tester Manual menjadi QA Engineer yang lebih baik
+karena saya ingin mengimprove skill saya dari undefined
 
 
 
